@@ -1,0 +1,6 @@
+<!-- Copy this file to GameDir.user.props and set your own game folder. -->
+<Project>
+  <PropertyGroup>
+    <GameDir>D:\SteamLibrary\steamapps\common\Fallout Shelter</GameDir>
+  </PropertyGroup>
+</Project>
