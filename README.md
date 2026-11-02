@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="Untitled-1" src="https://github.com/user-attachments/assets/2a780f04-d1c9-4695-9d31-8156cdecd5c6" />
+
 # FS AutoHeal
 
 A BepInEx plugin for the Steam version of **Fallout Shelter** that automatically uses
