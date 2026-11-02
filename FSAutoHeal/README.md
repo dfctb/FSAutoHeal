@@ -54,7 +54,7 @@ If dwellers get hurt faster than the check interval, raise the health percent or
 The game's own DLLs are not included in this repository.
 
 ## License
-MIT
+CC0 1.0 Universal
 
 ---
 
