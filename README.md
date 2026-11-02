@@ -58,6 +58,7 @@ The game's own DLLs are not included in this repository.
 ## License
 
 CC0 1.0 Universal
+
 Fallout and Vault Boy are trademarks of Bethesda Softworks. This project is not affiliated with Bethesda; the image is not covered by this repository’s license.
 
 ---
